@@ -1,6 +1,6 @@
-# Gong Cha Drink Store Data Analytics
+<br />
 
-<!-- ![Gong Cha Logo](./logo.png) -->
+# Gong Cha Drink Store Data Analytics
 
 <br />
 
