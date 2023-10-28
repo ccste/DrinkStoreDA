@@ -9,7 +9,7 @@
 
 ## Overview
 
-This repository contains the data analytics project for Gong Cha Drink Store, designed and implemented as part of the "INFO601 Database Modelling and SQL" course. The primary aim is to provide actionable insights into Gong Cha's sales performance using Power BI.
+This repository contains the data analytics project for Gong Cha Drink Store, designed and implemented as part of the "INFO601 Data Modelling and SQL" course. The primary aim is to provide actionable insights into Gong Cha's sales performance using Power BI.
 
 ## Repository Structure
 
