@@ -4,7 +4,7 @@
 <br />
 
 <div align="center">
-    <img src="./drinks.jpg" alt="Gong Cha Drinks" width="160">
+    <img src="./poster.jpg" alt="Gong Cha Drinks">
 </div>
 
 ## Overview
