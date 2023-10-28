@@ -4,7 +4,7 @@
 <br />
 
 <div align="center">
-    <img src="./logo.png" alt="Gong Cha Logo" width="170">
+    <img src="./logo.png" alt="Gong Cha Logo" width="160">
 </div>
 
 ## Overview
