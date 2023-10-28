@@ -3,7 +3,7 @@
 <!-- ![Gong Cha Logo](./logo.png) -->
 
 <div align="center">
-    <img src="./logo.png" alt="Gong Cha Logo" width="80" height="80">
+    <img src="./logo.png" alt="Gong Cha Logo" width="180">
 </div>
 
 ## Overview
