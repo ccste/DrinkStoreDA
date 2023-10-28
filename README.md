@@ -3,8 +3,8 @@
 
 <br />
 
-<div align="center" style="background-color: #fcf9f9">
-    <img src="./logo.png" alt="Gong Cha Logo" height="160">
+<div align="center">
+    <img src="./drinks.jpg" alt="Gong Cha Drinks" width="160">
 </div>
 
 ## Overview
