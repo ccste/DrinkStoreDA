@@ -3,7 +3,7 @@
 
 <br />
 
-<div align="center">
+<div align="center" style="background-color: #fcf9f9">
     <img src="./logo.png" alt="Gong Cha Logo" width="160">
 </div>
 
