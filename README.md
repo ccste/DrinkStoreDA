@@ -21,7 +21,8 @@ This repository contains the data analytics project for Gong Cha Drink Store, de
 - 📊 `Drink Store Data Analytics.pbix`: This is the main Power BI project file, showcasing various visuals and insights based on the provided dataset. 
 - 📈 `Drink Store Dataset.xlsx`: The dataset used for this analytics project, containing data related to products, sales, expenses, and other key metrics.
 - 📝 `Visualizations Research Report.docx`: A detailed description of the Power BI dashboard, its visuals, the rationale behind each visual choice, and the insights drawn from the data.
-- 🖼️ `logo.png`: The official logo of the Gong Cha Drink Store.
+- 🌅 `logo.png`: The official logo of the Gong Cha Drink Store.
+- 🎨 `poster.jpg`: A promotional poster showcasing four Gong Cha drinks with the brand logo and the slogan "Brewing Happiness".
 
 ## Project Details
 
