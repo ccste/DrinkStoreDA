@@ -1,4 +1,4 @@
-<br />
+
 # Gong Cha Drink Store Data Analytics
 
 <br /><br />
