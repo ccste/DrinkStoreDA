@@ -50,5 +50,5 @@ For a detailed breakdown of each KPI question, the visuals used to answer them, 
 
 - [Microsoft Power BI](https://learn.microsoft.com/en-us/power-bi/)
 
-## Get in Touch💬
+## Get in Touch 💬
 Thank you for visiting, and I hope this data analytics repository provides valuable insights and is helpful to you! If you have any questions or would like further clarification about this repository, please don't hesitate to reach out.
