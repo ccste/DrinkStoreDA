@@ -1,6 +1,10 @@
 # Gong Cha Drink Store Data Analytics
 
-![Gong Cha Logo](./logo.png)
+<!-- ![Gong Cha Logo](./logo.png) -->
+
+<div align="center">
+    <img src="./logo.png" alt="Gong Cha Logo" width="80" height="80">
+</div>
 
 ## Overview
 
